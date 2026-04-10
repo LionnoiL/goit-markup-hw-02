@@ -1,15 +1,16 @@
 .footer {
   background-color: #2e2f42;
+  color: #f4f4fd;
 }
 
 .footer p {
-  color: #f4f4fd;
+  color: inherit;
 }
 
 .footer a {
-  color: #f4f4fd;
+  color: inherit;
 }
 
-.footer a:hover {
-  color: #f4f4fd;
+.footer .logo:hover {
+  color: inherit;
 }
