@@ -1,3 +1,18 @@
 .hero {
   background-color: #2e2f42;
 }
+
+.hero button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  border-radius: 4px;
+  border-color: #4d5ae5;
+  width: 169px;
+  height: 56px;
+}
+
+.hero button:hover {
+  background-color: #404bbf;
+  border-color: #404bbf;
+}
