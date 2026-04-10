@@ -2,15 +2,17 @@
 
 ## Description
 
-The WEBSTUDIO project is the first homework assignment on HTML markup as part of
-the GoIT Fullstack program. The project demonstrates the creation of a semantic
-HTML structure for a digital solutions agency website.
+The WEBSTUDIO project is the second homework assignment on HTML markup and CSS styling as part of
+ the GoIT Fullstack program. The project demonstrates the creation of a semantic
+ HTML structure for a digital solutions agency website with basic CSS styling.
 
 ## Project Structure
 
 ```
-goit-markup-hw-01/
+goit-markup-hw-02/
 ├── index.html       # Main HTML file with markup
+├── css/
+│   └── styles.css   # Basic CSS styling
 ├── images/          # Directory with team images
 │   ├── team-1.jpg
 │   ├── team-2.jpg
@@ -41,6 +43,7 @@ goit-markup-hw-01/
 ## Technologies
 
 - **HTML5** — semantic markup
+- **CSS3** — basic styling
 - Proper document structure
 - Use of semantic tags (`<header>`, `<main>`, `<footer>`, `<section>`, `<nav>`,
   `<address>`)
@@ -54,6 +57,9 @@ This project is designed to practice the following skills:
 - Using anchor links for navigation
 - Proper embedding of media elements
 - Basic website structure
+- Applying CSS styling to HTML elements
+- Working with typography and colors
+- Basic layout styling
 
 ## Running the Project
 
